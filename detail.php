@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Workshops con Bootstrap 3</title>
+        <title>Workshop Primer Detalle</title>
         <link rel="stylesheet" href="css/styles.css">
         <?php include 'inc/headCommon.php'; ?>
     </head>
