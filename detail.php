@@ -10,6 +10,7 @@
         <?php include 'inc/header.php'; ?>
         <h1>Bootstrap ejemplo</h1>
         <p>Hola mundo.</p>
+        <?php include 'inc/footer.php'; ?>
         <?php include 'inc/footerCommon.php'; ?>
     </body>
 </html>
