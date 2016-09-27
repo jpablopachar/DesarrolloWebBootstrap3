@@ -7,6 +7,7 @@
         <?php include 'inc/headCommon.php'; ?>
     </head>
     <body>
+        <?php include 'inc/header.php'; ?>
         <h1>Bootstrap ejemplo</h1>
         <p>Hola mundo.</p>
         <?php include 'inc/footerCommon.php'; ?>
