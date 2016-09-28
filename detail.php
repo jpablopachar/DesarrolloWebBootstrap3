@@ -51,7 +51,35 @@
                         </section>
                     </div>
                     <div class="col-xs-5">
-                    
+                        <section id="registration">
+                            <h3>Registros</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, sunt. Laboriosam aut eveniet libero cum repellat distinctio, enim ab commodi autem velit accusamus porro odio sequi ipsa natus maxime consequatur.</p>
+                            <div id="registration-badge">
+
+                            </div>
+                        </section>
+                        <section id="agenda">
+                            <h3>Agenda del día</h3>
+                            <h4><span>W21</span> Sábado 15 de septiembre</h4>
+                            <dl class="dl-horizontal">
+                                <dt>10, 00h</dt>
+                                <dd>Workshop parte 1/4</dd>
+                                <dt>11,45h</dt>
+                                <dd>Descanso</dd>
+                                <dt>12, 00h</dt>
+                                <dd>Workshop parte 2/4</dd>
+                                <dt>14, 00h</dt>
+                                <dd>Comida</dd>
+                                <dt>16,00h</dt>
+                                <dd>Workshop parte 3/4</dd>
+                                <dt>17, 45h</dt>
+                                <dd>Descanso</dd>
+                                <dt>18, 00h</dt>
+                                <dd>Workshop parte 4/4</dd>
+                                <dt>19,30h</dt>
+                                <dd>Fin workshop</dd>
+                            </dl>
+                        </section>
                     </div>
                 </div>
             </div>
