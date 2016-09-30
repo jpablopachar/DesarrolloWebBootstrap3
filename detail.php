@@ -3,8 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <title>Workshop Primeros Detalles</title>
-        <link rel="stylesheet" href="css/styles.css">
         <?php include 'inc/headCommon.php'; ?>
+        <link rel="stylesheet" href="css/detail.css">
     </head>
     <body>
         <?php include 'inc/header.php'; ?>
@@ -32,21 +32,21 @@
                                 <div class="col-xs-4">
                                     <img src="img/jpablo.jpg" alt="Juan Pablo Pachar">
                                 </div>
-                            </div>
-                            <div class="col-xs-8">
-                                <h4>Juan Pablo Pachar</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint repellendus non ipsum ad debitis, quod nobis!<br>Estudiante Universitario</p>
-                                <a href="https://www.facebook.com/jpablo.pachar" class="trainer-link">CV online</a><a href="https://twitter.com/jpablopacharLDU" class="trainer-link">@jpablopacharLDU</a>
+                                <div class="col-xs-8">
+                                    <h4>Juan Pablo Pachar</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint repellendus non ipsum ad debitis, quod nobis!<br>Estudiante Universitario</p>
+                                    <a href="https://www.facebook.com/jpablo.pachar" class="trainer-link">CV online</a><a href="https://twitter.com/jpablopacharLDU" class="trainer-link">@jpablopacharLDU</a>
+                                </div>
                             </div>
                             <div class="trainer row">
                                 <div class="col-xs-4">
                                     <img src="img/junior.jpg" alt="Junior Vásquez">
                                 </div>
-                            </div>
-                            <div class="col-xs-8">
-                                <h4>Junior Vásquez</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint repellendus non ipsum ad debitis, quod nobis!<br>Estudiante Universitario de la UTPL</p>
-                                <a href="https://www.facebook.com/eljunior.escobar1?fref=ts" class="trainer-link">CV online</a>
+                                <div class="col-xs-8">
+                                    <h4>Junior Vásquez</h4>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint repellendus non ipsum ad debitis, quod nobis!<br>Estudiante Universitario de la UTPL</p>
+                                    <a href="https://www.facebook.com/eljunior.escobar1?fref=ts" class="trainer-link">CV online</a>
+                                </div>
                             </div>
                         </section>
                     </div>
@@ -55,7 +55,14 @@
                             <h3>Registros</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, sunt. Laboriosam aut eveniet libero cum repellat distinctio, enim ab commodi autem velit accusamus porro odio sequi ipsa natus maxime consequatur.</p>
                             <div id="registration-badge">
-
+                                <h3 class="price">$ 99</h3>
+                                <p class="included">
+                                    workshop + <br>
+                                    desayuno + <br>
+                                    almuerzo
+                                </p>
+                                <div class="clearfix"></div>
+                                <a href="#" class="do-register">ME APUNTO!</a>
                             </div>
                         </section>
                         <section id="agenda">
