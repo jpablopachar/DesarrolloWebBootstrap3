@@ -142,9 +142,12 @@
                 </div>
             </section>
             <section id="location-info">
+                <div id="map-canvas">
+
+                </div>
                 <div class="container">
                     <div class="row">
-                        <div class="col-xs-5">
+                        <div id="hotel-info" class="col-xs-5">
                             <h3>Necesitas alojamiento?</h3>
                             <div class="hotel">
                                 <h4>Hotel Navbar</h4>
@@ -197,5 +200,6 @@
         </article>
         <?php include 'inc/footer.php'; ?>
         <?php include 'inc/footerCommon.php'; ?>
+        <script type="text/javascript" src="js/mapa.js"></script>
     </body>
 </html>
