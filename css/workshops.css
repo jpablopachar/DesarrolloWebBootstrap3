@@ -84,3 +84,38 @@
         color: #444;
         background-color: #eee;
     }
+
+/*--------------------------MEDIA QUERIES--------------------------*/
+
+@media (min-width: 768px) {
+    .main-info h2 {
+        font-size: 36px;
+        font-size: 3.6rem;
+        line-height: 36px;
+        line-height: 3.6rem;
+    }
+    .workshop-left {
+        text-align: left;
+    }
+        .workshop-left h3 {
+            float: right;
+            clear: right;
+            text-align: right;
+        }
+    .workshop-right {
+        text-align: right;
+    }
+        .workshop-right h3 {
+            float: left;
+            clear: left;
+            text-align: left;
+        }
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}
