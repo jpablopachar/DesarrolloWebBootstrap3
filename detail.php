@@ -20,7 +20,7 @@
             </header>
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-7">
+                    <div class="col-xs-12 col-sm-7">
                         <section id="intro">
                             <h3>En este workshop aprenderás...</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum voluptatum qui sapiente temporibus sunt exercitationem doloribus, aliquid facere vel id nostrum ex quae, autem repudiandae laudantium dolorem repellendus aperiam at culpa accusamus veniam assumenda, blanditiis. Unde dolores reiciendis qui illo!</p>
@@ -29,20 +29,20 @@
                         <section id="trainer-list">
                             <h3>Los formadores</h3>
                             <div class="trainer row">
-                                <div class="col-xs-4">
+                                <div class="col-xs-12 col-sm-4">
                                     <img src="img/jpablo.jpg" alt="Juan Pablo Pachar">
                                 </div>
-                                <div class="col-xs-8">
+                                <div class="col-xs-12 col-sm-8">
                                     <h4>Juan Pablo Pachar</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint repellendus non ipsum ad debitis, quod nobis!<br>Estudiante Universitario</p>
                                     <a href="https://www.facebook.com/jpablo.pachar" class="trainer-link">CV online</a><a href="https://twitter.com/jpablopacharLDU" class="trainer-link">@jpablopacharLDU</a>
                                 </div>
                             </div>
                             <div class="trainer row">
-                                <div class="col-xs-4">
+                                <div class="col-xs-12 col-sm-4">
                                     <img src="img/junior.jpg" alt="Junior Vásquez">
                                 </div>
-                                <div class="col-xs-8">
+                                <div class="col-xs-12 col-sm-8">
                                     <h4>Junior Vásquez</h4>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint repellendus non ipsum ad debitis, quod nobis!<br>Estudiante Universitario de la UTPL</p>
                                     <a href="https://www.facebook.com/eljunior.escobar1?fref=ts" class="trainer-link">CV online</a>
@@ -50,7 +50,7 @@
                             </div>
                         </section>
                     </div>
-                    <div class="col-xs-5">
+                    <div class="col-xs-12 col-sm-5">
                         <section id="registration">
                             <h3>Registros</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam, sunt. Laboriosam aut eveniet libero cum repellat distinctio, enim ab commodi autem velit accusamus porro odio sequi ipsa natus maxime consequatur.</p>
@@ -96,7 +96,7 @@
                         <div class="col-xs-12">
                             <h3>Indice de contenidos</h3>
                         </div>
-                        <div class="col-xs-4">
+                        <div class="col-xs-12 col-sm-4">
                             <h4>1. Framework Front-end</h4>
                             <ul>
                                 <li>Item índice primero</li>
@@ -111,7 +111,7 @@
                                 <li>Item índice cuarto</li>
                             </ul>
                         </div>
-                        <div class="col-xs-4">
+                        <div class="col-xs-12 col-sm-4">
                             <h4>3. Tercer punto</h4>
                             <ul>
                                 <li>Item índice primero</li>
@@ -127,7 +127,7 @@
                                 <li>Item índice cuarto</li>
                             </ul>
                         </div>
-                        <div class="col-xs-4">
+                        <div class="col-xs-12 col-sm-4">
                             <h4>5. Quinto punto</h4>
                             <ul>
                                 <li>Item índice primero</li>
@@ -142,12 +142,10 @@
                 </div>
             </section>
             <section id="location-info">
-                <div id="map-canvas">
-
-                </div>
+                <div id="map-canvas"></div>
                 <div class="container">
                     <div class="row">
-                        <div id="hotel-info" class="col-xs-5">
+                        <div id="hotel-info" class="col-xs-12 col-sm-5 col-sm-offset-2">
                             <h3>Necesitas alojamiento?</h3>
                             <div class="hotel">
                                 <h4>Hotel Navbar</h4>
